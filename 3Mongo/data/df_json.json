@@ -1,0 +1,35 @@
+[
+    {
+        "ID": "name"
+    },
+    {
+        "ID": "category"
+    },
+    {
+        "ID": "main_category"
+    },
+    {
+        "ID": "deadline"
+    },
+    {
+        "ID": "goal"
+    },
+    {
+        "ID": "launched"
+    },
+    {
+        "ID": "pledged"
+    },
+    {
+        "ID": "state"
+    },
+    {
+        "ID": "country"
+    },
+    {
+        "ID": "usd pledged"
+    },
+    {
+        "ID": "usd_pledged_real"
+    }
+]
